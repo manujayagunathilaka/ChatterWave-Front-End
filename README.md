@@ -107,7 +107,7 @@ Follow these instructions to get the project up and running on your local machin
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/manujayagunathilaka/Chatterwave-Front-End.git
-    cd Chatterwave-Frontend
+    cd Chatterwave-Front-End
     ```
 
 2.  **Install Dependencies:**
